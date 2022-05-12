@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaisribeiro/url-shortener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaisribeiro/url-shortener/issues"
+  },
+  "homepage": "https://github.com/thaisribeiro/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-url-shortener": "^2.0.1"
+  }
+}
